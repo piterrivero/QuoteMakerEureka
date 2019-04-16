@@ -19,9 +19,9 @@
 		<spring-cloud.version>Finchley.SR1</spring-cloud.version>
 		
 		<!--set this to your docker acct name-->
-		<docker.image.prefix>quoteMaker</docker.image.prefix>
+		<docker.image.prefix>quote_maker</docker.image.prefix>
 		<!--Set to name of project-->
-		<docker.image.name>quoteMakerEureka</docker.image.name>
+		<docker.image.name>quote_maker_eureka</docker.image.name>
 	</properties>
 	
 	<dependencies>

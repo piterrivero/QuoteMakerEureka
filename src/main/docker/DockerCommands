@@ -1,0 +1,1 @@
+docker run -d -p 8761:8761 --network="localnetwork" --name quotemakereureka --restart always quote_maker/quote_maker_eureka
