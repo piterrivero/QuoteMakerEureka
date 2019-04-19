@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Built-By: piter.rivero
-Build-Jdk: 11.0.2
 Implementation-Title: quoteMakerEureka
 Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Utente
 Implementation-Vendor-Id: QuoteMaker
-Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
- -starter-parent/QuoteMakerEureka
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/QuoteMakerEureka
 Created-By: Maven Integration for Eclipse
 
